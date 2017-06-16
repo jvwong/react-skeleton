@@ -2,8 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import styles from '../styles/index.css';
 import { Sample } from './Sample/Sample.jsx';
+import $ from 'jquery';
 
-const mountElement = document.getElementById('container');
+const mountElement = $('#container').get(0);
 
 // App
 // Prop Dependencies ::

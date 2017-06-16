@@ -6,6 +6,7 @@ A skeleton app for [React](https://facebook.github.io/react/).
 
 - React
 - React-bootstrap
+- Webpack
 
 ## Getting started
 
@@ -18,20 +19,20 @@ A skeleton app for [React](https://facebook.github.io/react/).
 
 1. Clone the remote
 
-```shell
-$ git clone https://github.com/jvwong/react-skeleton.git
-```
+  ```shell
+  $ git clone https://github.com/jvwong/react-skeleton.git
+  ```
 
 2. Install the dependencies
 
-```shell
-$ npm install
-```
+  ```shell
+  $ npm install
+  ```
 
 3. Start the app
 
-```shell
-$ npm run watch
-```
+  ```shell
+  $ npm run watch
+  ```
 
-4. Point your browser at `http://localhost:`
+4. Point your browser at [`http://localhost:9090/`](http://localhost:9090/)
