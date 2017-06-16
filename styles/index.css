@@ -1,0 +1,9 @@
+/* Load vendor css files */
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+/* Load variables */
+@import './css/variables.css';
+@import './css/general.css';
+
+/* Load custom css files */
+@import './css/Sample/Sample.css';
